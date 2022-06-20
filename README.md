@@ -2,7 +2,7 @@
 <h3 align="center">A Frontend developer from Turkey</h3>
 
 
-- 🔭 I’m currently working on [52 week 52 website](https://github.com/block-hunter/52-week-52-website)
+<!-- - 🔭 I’m currently working on [52 week 52 website](https://github.com/block-hunter/52-week-52-website) -->
 
 - 🌱 I’m currently learning **React, Next.js, SCSS, NodeJS**
 
