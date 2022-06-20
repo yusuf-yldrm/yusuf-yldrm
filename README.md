@@ -8,8 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://yusufyildirim.dev](https://yusufyildirim.dev)
 
-- 📝 I regularly write articles on [https://yusufyildirim.dev/blog](https://yusufyildirim.dev/blog)
-
+<!-- - 📝 I regularly write articles on [https://yusufyildirim.dev/blog](https://yusufyildirim.dev/blog --> 
 - 💬 Ask me about **React, Javascript, CSS, Next.js**
 
 - 📫 How to reach me **dev.yusufyildirim@gmail.com**
