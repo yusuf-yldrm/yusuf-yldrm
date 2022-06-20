@@ -4,7 +4,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=block-hunter&show_icons=true&locale=en" alt="block-hunter" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=block-hunter&show_icons=true&locale=en&layout=compact" alt="block-hunter" /></p><br><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=block-hunter&show_icons=true&locale=en&layout=compact" alt="block-hunter" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=block-hunter&label=Profile%20views&color=0e75b6&style=flat" alt="block-hunter" /> </p>
 
