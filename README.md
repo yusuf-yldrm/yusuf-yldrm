@@ -29,7 +29,7 @@
 <a href="https://stackoverflow.com/users/18567708" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18567708" height="30" width="40" /></a>
 <a href="https://codesandbox.com/block-hunter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="block-hunter" height="30" width="40" /></a>
 <a href="https://medium.com/@block-hunter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@block-hunter" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/block hunter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="block hunter" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC0a7ugP8qefjgSYGHPv0MaQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="block hunter" height="30" width="40" /></a>
 <a href="https://discord.gg/uQeFD5bU" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="uQeFD5bU" height="30" width="40" /></a>
 </p>
 
