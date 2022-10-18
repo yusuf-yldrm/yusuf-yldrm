@@ -1,12 +1,9 @@
 
 
 ### Yusuf Yildirim  
-<div align="right">
-<img src="" align="right" style="width: 100%" />
-</div>  
   
 
-### <div align="center">I'm Yusuf, a full-time front-end freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
+### <div align="center">I'm Yusuf, a full-time front-end freelance developer 👨‍💻</div>  
   
 
 - 🔭 I’m currently working on [Vibes](https://github.com/VibesHQ)  
