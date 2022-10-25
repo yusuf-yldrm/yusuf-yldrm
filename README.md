@@ -3,7 +3,7 @@
 ### Yusuf Yildirim  
   
 
-### <div align="center">I'm Yusuf, a full-time front-end freelance developer 👨‍💻</div>  
+### <div align="center">I'm Yusuf, a full-time front-end developer 👨‍💻</div>  
   
 
 - 🔭 I’m currently working on [Vibes](https://github.com/VibesHQ)  
