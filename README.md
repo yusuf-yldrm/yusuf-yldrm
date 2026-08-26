@@ -24,7 +24,11 @@ I build cross-platform mobile apps, native modules, and AI-integrated tools — 
 
 ## Background
 
-Previously React Native Developer at Wingie Enuygun Group. Earlier experience at Edu3Labs and Reload. Entirely self-taught — no CS degree, high school graduate — learned by building and shipping.
+Expert React Native and native mobile development by building and shipping real products rather than through formal training.
+
+Most recently worked as a React Native Developer at Wingie Enuygun Group, with earlier roles at Edu3Labs and Reload. Alongside employment, I've independently designed and published multiple mobile apps end-to-end — architecture, native modules, and release.
+
+Outside of app work I'm currently building Software Caravan from the ground up — product, brand, and infrastructure — while exploring AI/ML integrations and local LLM tooling in my own projects.
 
 ## Get in touch
 
