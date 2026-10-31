@@ -12,10 +12,7 @@ I build cross-platform mobile apps, native modules, and AI-integrated tools — 
 - **Web:** Next.js, TypeScript, Tailwind CSS
 - **Open source:** developer tooling and productivity utilities
 
-## Projects
 
-- **[Software Caravan](https://swcaravan.com)** — studio for React Native consulting, mobile app development, and web services
-- **[Control Board](https://controlboard.swcaravan.com)** — Chrome extension replacing the new-tab page with a personal dashboard
 - **[yusufyildirim.net](https://yusufyildirim.net)** — personal portfolio
 
 <!-- Add your other repos/apps here, e.g.:
